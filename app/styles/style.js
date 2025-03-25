@@ -1,0 +1,127 @@
+import { StyleSheet } from 'react-native';
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 20,
+  },
+  header: {
+    fontSize: 30,
+    fontWeight: 'bold',
+    marginBottom: 20,
+  },
+  inputContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 20,
+  },
+  input: {
+    width: '70%',
+    height: 40,
+    paddingHorizontal: 10,
+    borderColor: '#ccc',
+    borderWidth: 1,
+    borderRadius: 5,
+    marginRight: 10,
+  },
+  addButton: {
+    backgroundColor: '#007BFF',
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    borderRadius: 5,
+  },
+  addButtonText: {
+    color: '#fff',
+    fontWeight: 'bold',
+  },
+  taskContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    padding: 10,
+    marginVertical: 5,
+    borderRadius: 5,
+    width: '100%',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 5,
+    elevation: 2,
+  },
+  taskText: {
+    fontSize: 18,
+    flex: 1,
+    marginLeft: 10,
+  },
+  completedText: {
+    textDecorationLine: 'line-through',
+    color: '#888',
+  },
+  circle: {
+    width: 20,
+    height: 20,
+    borderRadius: 10,
+    borderColor: '#007BFF',
+    borderWidth: 2,
+    marginRight: 10,
+  },
+  completedCircle: {
+    backgroundColor: '#007BFF',
+  },
+  removeButton: {
+    fontWeight: 'bold',
+  },
+  toggleButton: {
+    position: 'absolute',
+    bottom: 20,
+    right: 20,
+    borderRadius: 50,
+    padding: 15,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  modalContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+  },
+  modalContent: {
+    width: '90%',
+    padding: 20,
+    borderRadius: 10,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.1,
+    shadowRadius: 5,
+    elevation: 5,
+    flex: 0.5,
+    justifyContent: 'flex-end',
+  },
+  modalTitle: {
+    fontSize: 24,
+    marginBottom: 10,
+    fontWeight: 'bold',
+  },
+  inputModal: {
+    width: '100%',
+    height: 40,
+    paddingHorizontal: 10,
+    borderColor: '#ccc',
+    borderWidth: 1,
+    borderRadius: 5,
+    marginBottom: 20,
+  },
+  buttonModal: {
+    backgroundColor: '#007BFF',
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    borderRadius: 5,
+    textAlign: 'center',
+    marginBottom: 10,
+  },
+});
+
+export default styles;
