@@ -47,15 +47,25 @@
 
 <p align="left">Ou instalar ele na sua máquina da seguinte forma:</p>
 <p align="left">1 - clone este repositório na sua maquina: </p>
-```bash
-git clone https://github.com/Jedev1/to-do-list.git```
 
-<p align="left">2 - Após isto instale as dependência necessarias utilizando: </p>
+```bash
+git clone https://github.com/Jedev1/to-do-list.git
+```
+
+<p align="left">2 - Após isto entre na pasta do projeto: </p>
+
+```bash
+   cd to-do-list
+```
+
+<p align="left">3 - Após isto utilize instale as dependência necessarias: </p>
+
 ```bash
    npm install
 ```
 
-<p align="left">3 - Após isto utilize o comando: </p>
+<p align="left">4 - Após isto utilize o expo para acessar o app: </p>
+
 ```bash
    npx expo start
 ```
