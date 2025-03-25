@@ -40,11 +40,27 @@
 
 ###
 
-<p align="left">Você pode instalar e testar o aplicativo instalando o apk</p>
+<p align="left">Você pode instalar e testar o aplicativo instalando o apk(somente aandroid)</p>
+<h4 align="center"><a href="https://drive.google.com/file/d/1n3gpHkmnIA8OWyfSGCGLu6yXvlkFpxUA/view?usp=sharing">clicando aqui</a></h4>
 
 ###
 
 <p align="left">Ou instalar ele na sua máquina da seguinte forma:</p>
+<p align="left">1 - clone este repositório na sua maquina: </p>
+```bash
+   git clone https://github.com/Jedev1/to-do-list.git
+   ```
+<p align="left">2 - Após isto instale as dependência necessarias utilizando: </p>
+```bash
+   npm install
+   ```
+
+<p align="left">3 - Após isto utilize o comando: </p>
+```bash
+   npx expo start
+   ```
+<p align="left">E acesse utilizando o expo go no celular ou teste num simulador android de sua preferência e é so partir pro abraço :) </p>
+
 
 ###
 
