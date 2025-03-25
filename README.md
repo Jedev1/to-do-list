@@ -1,50 +1,67 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <img height="200" src="mobile-preview.png"  />
+</div>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+###
 
-## Get started
+<h2 align="center">To-do List Dev 🎯</h2>
 
-1. Install dependencies
+###
 
-   ```bash
-   npm install
-   ```
+<p align="left">Um aplicativo que desenvolvi no intuito de auxiliar qualquer pessoa a organizar suas tarefas diárias onde você no app adiciona uma tarefa diária e pode colocar descrição nas suas tarefas desde de as mais especificas até as mais abrangentes</p>
 
-2. Start the app
+###
 
-   ```bash
-    npx expo start
-   ```
+<h2 align="left">💻 Tecnologias utilizadas:</h2>
 
-In the output, you'll find options to open the app in a
+###
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+</div>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+###
 
-## Get a fresh project
+<h2 align="left">🎯 Pontos principais no projeto</h2>
 
-When you're ready, run:
+###
 
-```bash
-npm run reset-project
-```
+<p align="left">👨‍💻 Utilização do expo para auxiliar na construção e build do aplicativo.<br><br>📱  Utilização do react para criação do aplicativo.</p>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+###
 
-## Learn more
+<p align="left">📌 Quer trocar uma ideia ou colaborar?</p>
 
-To learn more about developing your project with Expo, look at the following resources:
+###
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+<h1 align="left">📃 Instalação do projeto</h1>
 
-## Join the community
+###
 
-Join our community of developers creating universal apps.
+<p align="left">Você pode instalar e testar o aplicativo instalando o apk</p>
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+###
+
+<p align="left">Ou instalar ele na sua máquina da seguinte forma:</p>
+
+###
+
+<h1 align="left">Quer trocar uma ideia ou colaborar?</h1>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-enrique/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/devlag_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Devlag" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
