@@ -53,12 +53,12 @@
 <p align="left">2 - Após isto instale as dependência necessarias utilizando: </p>
 ```bash
    npm install
-   ```
+```
 
 <p align="left">3 - Após isto utilize o comando: </p>
 ```bash
    npx expo start
-   ```
+```
 <p align="left">E acesse utilizando o expo go no celular ou teste num simulador android de sua preferência e é so partir pro abraço :) </p>
 
 
