@@ -48,7 +48,7 @@
 <p align="left">Ou instalar ele na sua máquina da seguinte forma:</p>
 <p align="left">1 - clone este repositório na sua maquina: </p>
 ```bash
-git clone https://github.com/Jedev1/to-do-list.git
+git clone https://github.com/Jedev1/to-do-list.git```
 
 <p align="left">2 - Após isto instale as dependência necessarias utilizando: </p>
 ```bash
